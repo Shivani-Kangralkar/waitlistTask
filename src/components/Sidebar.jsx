@@ -132,7 +132,7 @@ const Sidebar = () => {
         {open ? (
           <div className="flex items-center justify-between w-full px-2 mb-4">
             <MdOutlineDashboard />
-            <h4 className=" mr-20">Dashboard</h4>
+            <h4 className="mr-20">Dashboard</h4>
             <BsBoxArrowUpRight />
           </div>
         ) : (
